@@ -34,7 +34,7 @@
 ——作用：在iterator对标识元素范围内，查找一对相邻重复元素，找到则返回指向这对元素的第一个元素的迭代器。否则返回past-the-end
 
 ——算法
-   
+   	
 	vector<int> vecInt;
 	vecInt.push_back(1);
 	vecInt.push_back(2);
