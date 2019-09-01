@@ -151,6 +151,8 @@
     <ClCompile Include="03.链式栈.cpp" />
     <ClCompile Include="04.顺序队列.cpp" />
     <ClCompile Include="05.链式队列.cpp" />
+    <ClCompile Include="06.链表.cpp" />
+    <ClCompile Include="07.树.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
